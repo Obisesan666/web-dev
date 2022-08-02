@@ -1,0 +1,39 @@
+main{
+    border: 20px solid #BDC3C7;
+    width: 80%;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    line-height: 1.9;
+    font-family: Montserrat;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    font-family: 'Montez', cursive;
+}
+.border{
+    border-left: 10px solid #BDC3C7 ;
+    padding-left: 10px;
+}
+
+hr { 
+    display: block; 
+    height: 30px; 
+    margin-top: -31px; 
+    border-style: solid; 
+    border-color: #8c8b8b; 
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+.Date{
+    letter-spacing: 2px;
+    color: rgb(126, 126, 223);
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h2{
+        font-family: 'Merriweather Sans', sans-serif;
+        
+    }

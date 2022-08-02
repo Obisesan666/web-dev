@@ -1,0 +1,41 @@
+body{
+    margin: 0 auto;
+    padding: 10px;
+    border: 10px;
+    max-width: 1200px;
+    width: 40%; 
+    
+
+}
+
+form{ 
+    background-color:#C4DDFF;
+    
+}
+
+
+
+h1{
+    color:black;
+    background-color: coral;
+}
+
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }
+
+
+.input{
+    background-color: coral;
+    text-align:center ;
+    color:white;
+    border: 70px;
+}
+
+.Obisesan{
+    margin-left: 40px;
+}

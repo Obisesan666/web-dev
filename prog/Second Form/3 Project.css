@@ -1,0 +1,34 @@
+form{
+    background-color: pink;
+    max-width: 1200px;
+    margin: 0 auto ;
+    padding: 20px;
+    width: 40%;
+    border: 50px;
+    color: black;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+}
+
+.radio{
+    
+    width: 100%;
+    text-align: center;
+    justify-items: center;
+    
+
+}
+input[type=submit]{
+    margin-right: 20px;
+}
+input[type=reset]{
+    margin-right: 20px;
+}

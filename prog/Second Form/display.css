@@ -1,0 +1,21 @@
+
+div{
+    width: 200px;
+    height: 200px;
+    
+}
+#red{
+    background-color: red;
+    position: fixed;
+    /* top: 100px; */
+    right: 100px; 
+}
+#yellow{
+    background-color: yellow;
+    /* position: relative; */
+    /* right: 100px; */
+    /* bottom: 100px; */
+}
+#blue{
+    background-color: blue;
+}
